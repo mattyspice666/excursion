@@ -1,10 +1,30 @@
 html {
   background-color: black;
+  text-align: center;
+  background: black;
 }
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  position: center;
+  background-color: black;
+}
+p.link {
+  color: aquamarine;
+  font-size: 16px;
+  background-color: black;
+}
+h2 {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+  background-color: black;
 }
