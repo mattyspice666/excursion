@@ -9,7 +9,7 @@ h1 {
   color: white;
   background-color: black;
 }
-p.link {
+a {
   color: aquamarine;
   font-size: 16px;
   background-color: black;
